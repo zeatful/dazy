@@ -1,0 +1,6 @@
+version: '3.7'
+services:
+  dayz:
+    build: .
+    image: dayz
+    container_name: dayz
